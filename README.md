@@ -1,4 +1,4 @@
-#Hello and an introduction of myself.
+#Well, what to do..
 
 **Merely** here to try to improve stuffs for my own sake, if this helps other peoples issues by the way, so be it.
 
