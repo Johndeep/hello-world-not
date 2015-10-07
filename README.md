@@ -10,4 +10,4 @@ Be open source and keep it simple but still nice and do not underestimate good d
 
 Wenn jemand eine gute Idee hat, was für meine eigenen Zwecke vom Vorteil sein sollte, so werde ich versuche, dies in den Projekten zu implementieren, worin ich mich gerade befinde (sofern dies natürlich inhaltlich passt). Was ich nicht brauche, mache ich nicht.
 
-Sei Open Sourec und halte es einfach aber schön und unterschätze ja nicht gutes Design. Mache was du machen möchtest.
+Sei Open Source und halte es einfach aber schön und unterschätze ja nicht gutes Design. Yearn what you want to do.
